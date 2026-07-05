@@ -29,8 +29,7 @@ This project is licensed under the MIT License.
 ## Disclaimer
 
 VMotionLabV2 is intended for research, education, and workflow visualization.
-It is not a diagnostic medical device. Clinical interpretation and validation
-remain the responsibility of the user, researcher, or qualified clinician.
+Clinical interpretation and validation remain the responsibility of the user, researcher, or qualified clinician.
 
 ## Installation
 
