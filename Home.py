@@ -26,7 +26,7 @@ st.image(
 )
 
 st.set_page_config(
-    page_title="VMotionLab",
+    page_title="VMotionLabV2",
     layout="wide",
 )
 apply_global_style()
