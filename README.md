@@ -28,3 +28,13 @@ The app supports uploaded trimmed videos, offline pose processing, joint-angle p
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
+
+## License
+
+This project is licensed under the MIT License.
+
+## Disclaimer
+
+VMotionLabV2 is intended for research, education, and workflow visualization.
+It is not a diagnostic medical device. Clinical interpretation and validation
+remain the responsibility of the user, researcher, or qualified clinician.
