@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+mediapipe==0.10.35
+numpy
+pandas
+scipy
+matplotlib
+plotly
+fpdf2
+Pillow
+openpyxl

@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+!.streamlit/config.toml
+
+# VMotionLab generated data
+data/current_project.json
+data/projects/*
+!data/projects/.gitkeep
+
+# Uploaded / processed videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Motion output files
+motion_raw.csv
+motion_filtered.csv
+motion_trimmed.csv
+landmarks.csv
+statistics.csv
+normalized_curves.csv
+processing_info.json
+kinematics_info.json
+multi_trial_combined_curves.csv
+multi_trial_mean_sd.csv
+multi_trial_statistics.csv
+multi_trial_info.json
+
+# Reports and figures
+report/
+reports/
+figures/
+*.pdf
+*.png
+
+# Logs
+*.log
