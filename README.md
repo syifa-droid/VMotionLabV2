@@ -36,5 +36,6 @@ Clinical interpretation and validation remain the responsibility of the user, re
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+pip install streamlit
 pip install -r requirements.txt
 
